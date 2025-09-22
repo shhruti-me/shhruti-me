@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=b6d284&text=hey%20there,%20hii&fontColor=507d2a&animation=fadeIn&fontSize=30&descAlign=45&descAlignY=91&fontAlign=17&fontAlignY=35"/>
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://shrutis.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
@@ -38,7 +38,7 @@ fields_of_interests:
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> tools i know </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
