@@ -1,4 +1,4 @@
-<h2>About Me :)</h2>
+<h2>about Me :)</h2>
 
 ```yaml
 name: Shruti S
