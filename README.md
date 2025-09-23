@@ -16,6 +16,21 @@ interests:
   - Prompt Engineering
  ```
 <p align="left">
-<a href="https://shrutis.netlify.app/"> <img height="50" alt="Portfolio Website" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/> </a>
-<a href="https://www.linkedin.com/in/shrutiselvakkumar/"> <img height="50" alt="LinkedIn Profile" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/> </a>
+  
+<a href="mailto:shrutiselvakkumar06@gmail.com">
+  <img src="email.png" alt="Email" width="40" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shrutiselvakkumar" target="_blank">
+  <img src="linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<a href="https://shrutis.netlify.app" target="_blank">
+  <img src="portfolio.png" alt="Portfolio" width="40" height="40"/>
+</a>
+
+<a href="https://drive.google.com/file/d/13VxaCkPY40kQBKDp3_NbtvhCknkXQS3q/view?usp=drivesdk" target="_blank">
+  <img src="resume.png" alt="Resume" width="40" height="40"/>
+</a>
+
 </p>
