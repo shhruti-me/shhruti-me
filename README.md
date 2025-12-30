@@ -29,7 +29,7 @@ interests:
   <img src="portfolio.png" alt="Portfolio" width="100" height="100"/>
 </a>
 
-<a href="https://drive.google.com/file/d/13VxaCkPY40kQBKDp3_NbtvhCknkXQS3q/view?usp=drivesdk" target="_blank">
+<a href="https://drive.google.com/file/d/15dVSFB2P2LgnuAlF_IRcFebQ1BcMsSR-/view?usp=sharing" target="_blank">
   <img src="resume.png" alt="Resume" width="100" height="100"/>
 </a>
 
